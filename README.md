@@ -1,6 +1,6 @@
 # TicTacToe
 
-This is a tic-tac-toe game you can play against the computer. I realised it for my HarvardX Professional Certificate in "Computer Science for Artifical Intelligence"
+This is a tic-tac-toe game you can play against the computer. I realised it for my HarvardX Professional Certificate in "Computer Science for Artifical Intelligence".
 
 ## Install & Use
 
